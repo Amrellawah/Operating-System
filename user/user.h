@@ -1,0 +1,1 @@
+int procinfo(void *info, int max); 
